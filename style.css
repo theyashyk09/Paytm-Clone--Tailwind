@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  width: 0.4em;
+  height: 1em;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+  border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00baf2;
+  border-radius: 100vw;
+}
+
+.section-5 {
+  background-image: url(./Images/bgimage.webp);
+  max-width: 100%;
+  background-size: cover;
+  background-position: center;
+}
